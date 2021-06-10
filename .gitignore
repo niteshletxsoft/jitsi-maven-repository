@@ -1,5 +1,2 @@
 snapshots/
-releases/
-!releases/com/facebook/react
-!releases/org/jitsi/
-!releases/org/webkit/
+*.DS_Store
